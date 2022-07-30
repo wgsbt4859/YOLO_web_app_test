@@ -2,6 +2,8 @@
 
 最終更新：2022/7/30
 
+<img width="512" alt="1" src="https://user-images.githubusercontent.com/27219001/181904339-4543967a-bd85-4a2d-a4f8-2af30472105a.png">
+
 ## 概要
 webカメラを使用して作業場所を移し、特定の場所に人が入ったらアラートを出すwebアプリ（の試作）
 

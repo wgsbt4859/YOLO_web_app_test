@@ -1,0 +1,10 @@
+# 指定したファイルをすべて除外
+test.ipynb
+yolov5s.pt
+
+#指定したディレクトリをすべて除外
+#.gitignoreがおいてある階層配下でdirというフォルダ配下を全部除外する
+__pycache__/
+.ipynb_checkpoints/
+env/
+yolov5/
